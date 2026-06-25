@@ -48,9 +48,6 @@ Cybersecurity & Ethical Hacking Enthusiast
 - [HackerRank Profile](https://www.hackerrank.com/profile/sneha_0984321)  
 - Email: sneha.0984321@gmail.com  
 - LinkedIn: [linkedin.com/in/sneha-sharma-090b523b0](https://linkedin.com/in/sneha-sharma-090b523b0)
-- foot printing: (https://github.com/user-attachments/files/29322422/Mini.Project.pdf)
-)
-
 ---
 
 ## ⚠️ Disclaimer
@@ -60,3 +57,16 @@ All techniques demonstrated are part of **ethical hacking practices** and should
 ---
 
 ## 📂 Project Structure
+ # Mini-Project-Footprinting-Recon
+- README.md              # Project overview, techniques, tools, disclaimer
+- report.pdf             # Detailed documentation of findings and analysis
+- screenshots/           # Evidence from tools (Shodan, Netcraft, Google Dorks, etc.)
+- scripts/               # Any code or automation scripts used (optional)
+- references/            # Research notes, articles, or supporting material
+- results/               # Output files, extracted URLs, subdomain lists, headers check
+ ---
+  ## Project documentation 
+ The file of the Foot printing in pdf form : 
+ This contain screen shots and script about how footprinting is done.
+[Foot printing.pdf](https://github.com/user-attachments/files/29322733/Foot.printing.pdf)
+
