@@ -47,7 +47,6 @@ It highlights both **basic** and **advanced** approaches to reconnaissance.
 Cybersecurity & Ethical Hacking Enthusiast  
 - [HackerRank Profile](https://www.hackerrank.com/profile/sneha_0984321)  
 - Email: sneha.0984321@gmail.com  
-- LinkedIn: [linkedin.com/in/sneha-sharma-090b523b0](https://linkedin.com/in/sneha-sharma-090b523b0)
 ---
 
 ## ⚠️ Disclaimer
