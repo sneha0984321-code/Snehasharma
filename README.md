@@ -1,4 +1,4 @@
-# Snehasharma
+# Cyber Security
 Cyber security reconnaissance project covering Foot printing, OSINT, Google Dorking, Shodan, Censys, subdomain discoveries, and web security analysis
 # 🕵️‍♀️ Mini Project: Ethical Hacking – Footprinting & Reconnaissance
 
